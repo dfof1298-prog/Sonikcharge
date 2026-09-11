@@ -8,7 +8,7 @@ import time
 import random
 import logging
 
-TOKEN = "8124255326:AAHcUCZw3xSWBVhFo0ArokZ7-sB08aHLt3s"
+TOKEN = "8124255326:AAFZFmEMHtMgrRNEozzXiPlzd0FqwE_UBSE-sB08aHLt3s"
 CHANNEL_ID = -1003808682791
 DATA_FILE = "premium_members.json"
 ADMIN_ID = 7077116674
